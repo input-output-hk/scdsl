@@ -8,7 +8,7 @@ This repository contains Marlowe, a domain-specific language (DSL) for describin
 
 ## Learning about Marlowe and Marlowe Playground
 
-The [Marlowe tutorials](https://david.marlowe.iohkdev.io/tutorial/) introduce Marlowe and the Marlowe Playground.
+The [Marlowe tutorials](https://alpha.marlowe.iohkdev.io/doc/marlowe/tutorials/index.html) introduce Marlowe and the Marlowe Playground.
 
 ## Versions of Marlowe
 

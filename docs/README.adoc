@@ -3,7 +3,7 @@
 Marlowe is a domain-specific language (DSL) for writing financial
 contracts that run on blockchain.
 
-The best place to go to learn about Marlowe and to try it out is the https://david.marlowe.iohkdev.io/[Marlowe Playground], which also contains a https://david.marlowe.iohkdev.io/tutorial/[tutorial] about Marlowe.
+The best place to go to learn about Marlowe and to try it out is the https://alpha.marlowe.iohkdev.io/[Marlowe Playground], which also contains a https://alpha.marlowe.iohkdev.io/doc/marlowe/tutorials/index.html[tutorial] about Marlowe.
 
 == Earlier versions of Marlowe
 
